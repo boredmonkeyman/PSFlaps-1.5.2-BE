@@ -7,24 +7,21 @@ TO SELF HOST THIS DOWNLOAD and use AL-AZIFs Exploit Host either in exe or python
 PSFree Chained to Lapse port for 9.00 
 
 Credits:
+Credits:
 
 Jhon https://github.com/janisslsm
 
-
 SiSTR0 https://github.com/SiSTR0
-
 
 CTN https://github.com/ctn123
 
-
 Al-Azif https://github.com/al-azif
-
 
 abc for PSFree webkit exploit & Lapse kernel Exploit
 
+kameleon - https://kmeps4.site
 
-kameleon - kmeps4.site
-
+Chendochap https://github.com/ChendoChap
 
 
 PSFree is a collection of exploits for the PS4 console. The main focus of the repo is for the PS4 but we try to make things portable to PS5.
