@@ -1,4 +1,7 @@
 # PSFlaps-1.5.2-BE
+
+https://t.me/boredmonkeymanschat
+
 PSFree + Lapse Boredmonkeyman edition, so far 90% success rate and no KPs
 
 TO SELF HOST THIS DOWNLOAD and use AL-AZIFs Exploit Host either in exe or python version
