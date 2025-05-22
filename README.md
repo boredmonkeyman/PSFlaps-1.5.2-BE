@@ -2,7 +2,11 @@
 
 https://t.me/boredmonkeymanschat
 
-PSFree + Lapse Boredmonkeyman edition, so far 90% success rate and no KPs
+PSFree + Lapse Boredmonkeyman edition
+
+edit: after testing still seems unstable but will sync any new commits and reupload
+
+3/5 times will kp
 
 TO SELF HOST THIS DOWNLOAD and use AL-AZIFs Exploit Host either in exe or python version
 
